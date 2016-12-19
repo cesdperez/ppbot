@@ -1,0 +1,8 @@
+{
+	"help": {
+		"alias": [ "halp" ],
+		"endpoint": "#",
+		"help": "help [command](optional)",
+		"description": "To get help on all supported commands, or a specified command"
+	}
+}

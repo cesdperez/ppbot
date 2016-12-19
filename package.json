@@ -1,0 +1,27 @@
+{
+  "name": "ppbot",
+  "version": "0.1.0",
+  "description": "Slack bot for recording ping pong matches and rank players",
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.65.0",
+    "slack-terminalize": "^1.0.0"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:cesdperez/ppbot.git"
+  },
+  "engines": {
+    "node": "0.12.x"
+  },
+  "keywords": [
+    "slack",
+    "terminal",
+    "ping pong"
+  ],
+  "author": "Cesar Daniel Perez",
+  "license": "MIT"
+}
